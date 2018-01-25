@@ -1,0 +1,9 @@
+F:\repos\calendarProject\calendarProject\bin\Debug\netcoreapp2.0\calendarProject.deps.json
+F:\repos\calendarProject\calendarProject\bin\Debug\netcoreapp2.0\calendarProject.dll
+F:\repos\calendarProject\calendarProject\bin\Debug\netcoreapp2.0\calendarProject.pdb
+F:\repos\calendarProject\calendarProject\obj\Debug\netcoreapp2.0\calendarProject.csprojResolveAssemblyReference.cache
+F:\repos\calendarProject\calendarProject\obj\Debug\netcoreapp2.0\calendarProject.csproj.CoreCompileInputs.cache
+F:\repos\calendarProject\calendarProject\obj\Debug\netcoreapp2.0\calendarProject.AssemblyInfoInputs.cache
+F:\repos\calendarProject\calendarProject\obj\Debug\netcoreapp2.0\calendarProject.AssemblyInfo.cs
+F:\repos\calendarProject\calendarProject\obj\Debug\netcoreapp2.0\calendarProject.dll
+F:\repos\calendarProject\calendarProject\obj\Debug\netcoreapp2.0\calendarProject.pdb

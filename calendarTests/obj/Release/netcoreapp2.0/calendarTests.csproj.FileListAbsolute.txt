@@ -1,0 +1,4 @@
+F:\repos\calendarProject\calendarTests\obj\Release\netcoreapp2.0\calendarTests.csprojResolveAssemblyReference.cache
+F:\repos\calendarProject\calendarTests\obj\Release\netcoreapp2.0\calendarTests.csproj.CoreCompileInputs.cache
+F:\repos\calendarProject\calendarTests\obj\Release\netcoreapp2.0\calendarTests.AssemblyInfoInputs.cache
+F:\repos\calendarProject\calendarTests\obj\Release\netcoreapp2.0\calendarTests.AssemblyInfo.cs
